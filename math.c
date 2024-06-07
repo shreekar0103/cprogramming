@@ -58,7 +58,7 @@ int main(){
     printf("division %f \n", d);
 
     c = multiply(a,b);
-    printf("multiply %d \n", c);
+    printf("area %d \n", c);
 
     return 0;
 }
