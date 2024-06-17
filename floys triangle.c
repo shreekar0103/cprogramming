@@ -6,18 +6,18 @@
    7 8 9 10
    11 12 13 14 15 */
 
-   #include <stdio.h>
+#include <stdio.h>
 
 int main()
 {
-    int n ; 
+    int n; 
     printf ("Enter  a number :");
     scanf("%d",&n);
     int a = 1 ; // we have to considered a new variable to make the code in a easy way 
     for(int i= 1 ; i <=n ; i ++){
         
         for (int j = 1 ; j<=i ; j ++){
-            printf("%d", a  );
+            printf("%d ", a  );
             a++;
         }
         printf ("\n");
