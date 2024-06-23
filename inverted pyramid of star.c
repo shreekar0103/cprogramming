@@ -23,7 +23,9 @@ int main () {
             printf (" ");
         }
         //printf("startcount %d\n", 2*(n-l)+1);
-        
+        for (int star = 1; star <= 2*(n-l)+1; star ++){
+            printf("*");
+        }
 
             printf("\n");
     }
