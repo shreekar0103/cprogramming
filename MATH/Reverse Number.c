@@ -21,6 +21,11 @@ int main(){
             printf("%d",r);
         }
         n=n/10;
+
+        /*
+        
+        z = z*10 + r  -- store reverse number
+        */
     }   
     return 0;
 }
