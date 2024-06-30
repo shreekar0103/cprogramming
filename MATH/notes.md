@@ -19,8 +19,8 @@ Math and Logic Building Questions
 •	Write a program to find the sum of the digits of a given number.
 - [x]  8.	Reverse a Number
 •	Write a program to reverse the digits of a given number.
-    $ digit = (num \space mod \space 10) $
-    $ rev\_num = rev\_num * 10 + remainder$
+    $digit = (num \space mod \space 10)$
+    $rev\_num = rev\_num * 10 + remainder$
 
 Data Types, Limits, and Type Casting
 

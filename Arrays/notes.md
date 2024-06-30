@@ -1,6 +1,6 @@
 #### ARRAY QUESTIONS
 
-$ Ctrl-k , v $
+$Ctrl-k , v$
 
 - [ ]  Declaration and Initialization
 •	Declare an array of integers with size 10.
