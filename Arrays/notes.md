@@ -1,6 +1,12 @@
 #### ARRAY QUESTIONS
 
-$Ctrl-k , v$
+#### Function Syntax
+$$ return\_type \space function\_name ( paramerters) \space \{\}$$
+
+#### Arrays and Pointers
+$$ arr[i]  = *(arr + i)$$
+
+$$ \&arr[i] = arr + i $$
 
 - [ ]  Declaration and Initialization
 •	Declare an array of integers with size 10.
