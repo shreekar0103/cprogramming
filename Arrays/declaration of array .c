@@ -33,7 +33,7 @@ int isPrime(int p){
 
 int* fillPrimes(int* arr, int n) {
 
-    printf("%d\n", &n); // copy
+   printf("%d\n", &n); // copy
 
     // n - pass by value 
     // arr - pass by reference/address
@@ -48,7 +48,6 @@ int* fillPrimes(int* arr, int n) {
         p++;
     }
 }
-
 int main () {
     int arr[5] = {-1,2,33,5,27};
 
@@ -56,15 +55,15 @@ int main () {
         printf("%d \n", *(arr+i) );
     }
 
-   /* int n = 5; 
+    int n = 5; 
 
-    printf("%d\n", &n);
+     printf("%d\n", &n);
     fillPrimes(arr, n);
 
     for(int i = 0 ; i<5 ; i++){
         printf("%d \n", *(arr+i) );
     }
-*/
+
 
     
     return 0;
