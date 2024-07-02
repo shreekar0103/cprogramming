@@ -56,7 +56,7 @@ int main () {
         printf("%d \n", *(arr+i) );
     }
 
-    int n = 5; 
+   /* int n = 5; 
 
     printf("%d\n", &n);
     fillPrimes(arr, n);
@@ -64,7 +64,7 @@ int main () {
     for(int i = 0 ; i<5 ; i++){
         printf("%d \n", *(arr+i) );
     }
-
+*/
 
     
     return 0;
