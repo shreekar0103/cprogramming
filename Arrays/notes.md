@@ -8,13 +8,13 @@ $$ arr[i]  = *(arr + i)$$
 
 $$ \&arr[i] = arr + i $$
 
-- [ ]  Declaration and Initialization
+- [x]  Declaration and Initialization
 •	Declare an array of integers with size 10.
 •	Initialize an array with the first 5 prime numbers.
-- [ ]  Reading and Writing
+- [x]  Reading and Writing
 •	Write a program to read 5 integers from the user and store them in an array. Then, print the array elements.
 •	Modify the program to find and print the sum of all elements in the array.
-- [ ]  Simple Operations
+- [x]  Simple Operations
 •	Write a program to find the largest element in an array.
 •	Write a program to find the smallest element in an array.
 - [ ]  Searching
