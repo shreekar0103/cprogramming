@@ -2,18 +2,19 @@
 //	•	Write a program to reverse the elements of an array.
 #include <stdio.h>
 int main (){
-    int n,j,i ; 
+    int n,i ; 
     printf ("Enter size of the array ");
     scanf("%d", &n);
     int arr[n];
+    int brr [n];
     printf("Enter elements to print :");
     for ( i=0;i<n;i++){
         scanf("%d", &arr[i]);
     }
-    for (j=0;j<n;j++){
-        arr[j]= arr[n-i];
-        printf("%d", arr[j]);
+    for (i=0;i<n;i++){
+        brr[i]= arr[n-i];
     }
+     printf("%d", brr[i]);
     
     return 0;
 }
