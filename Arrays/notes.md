@@ -20,12 +20,12 @@ $$ \&arr[i] = arr + i $$
 - [ ]  Searching
 •	Write a function to search for an element in an array. The function should return the index of the element if found, otherwise it should return -1.
 •	Modify the search function to count how many times a given element appears in the array.
-- [ ]  Sorting
+- [x]  Sorting
 •	Write a program to sort an array of integers in ascending order.
 •	Write a program to sort an array of integers in descending order.
-- [ ]  Reversing an Array
+- [x]  Reversing an Array
 •	Write a program to reverse the elements of an array.
-- [ ]  Finding the Average
+- [x]  Finding the Average
 •	Write a program to calculate and print the average of the elements in an array.
 - [ ]  Removing Duplicates
 •	Write a program to remove duplicate elements from an array.
